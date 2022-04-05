@@ -27,6 +27,3 @@ FROM bitnami/thanos:0.25.1-scratch-r0
 # Tags: 0.25.0-scratch-r1, 0.25.0
 FROM bitnami/thanos:0.25.0-scratch-r1
 FROM bitnami/thanos:0.25.0
-
-# Tags: 0.25.0-scratch-r0
-FROM bitnami/thanos:0.25.0-scratch-r0
